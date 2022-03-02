@@ -10,8 +10,6 @@
 </div>
 
 <div style="display: inline_block"><br>
-Af//Z">
-  <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   
 
   <img align="right" alt="Maycon" height="190" src="https://media.discordapp.net/attachments/933154236538159207/933154430059175936/WhatsApp_Image_2022-01-18_at_21.15.47.jpeg?width=676&height=800">
